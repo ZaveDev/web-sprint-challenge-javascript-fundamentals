@@ -18,7 +18,7 @@ myFunction();
 
 // Explanation: 
 /*
-The reason why nestedFunction has access to internal is because it inherits it from its parent function.
+The reason why nestedFunction has access to internal is because it can access it from its parent scope.
 */
 
 /* Task 2: Counter */
