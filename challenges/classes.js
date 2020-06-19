@@ -28,3 +28,8 @@ class CubeMaker extends CuboidMaker{
         
     }
 }
+
+const cube = new CubeMaker(4, 5, 5);
+// Test your volume and surfaceArea methods by uncommenting the logs below:
+console.log(cube.volume()); // 100
+console.log(cube.surfaceArea()); // 130
